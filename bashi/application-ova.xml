@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mime-info xmlns="http://www.freedesktop.org/standards/shared-mime-info">
+  <mime-type type="application/ovf">
+    <comment>respaldo de imagen en virtualbox</comment>
+    <glob pattern="*.OVA"/>
+    <glob pattern="*.ova"/>
+    <icon name="application-x-virtualbox-ova"/>
+  </mime-type>
+</mime-info>
